@@ -15,6 +15,7 @@
 情報の提供に難のあるものは、プログラムを公開しています
 
 - [kabu-json-all-stock-price-list | 全銘柄終値JSON取得プログラム](https://github.com/umihico/kabu-json-all-stock-price-list)
+- [kabu-json-infra | データ保存・配信用インフラ](https://github.com/umihico/kabu-json-infra)
 
 ## 関連記事
 
