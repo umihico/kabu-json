@@ -9,7 +9,7 @@
 - [kabu-json-all-stock-list | 全銘柄JSONデータ](https://github.com/umihico/kabu-json-all-stock-list)
 - [kabu-json-topix | TOPIXデータ](https://github.com/umihico/kabu-json-topix)
 - [kabu-json-kessan-schedules | 決算スケジュール](https://github.com/umihico/kabu-json-kessan-schedules)
-- [json-nomura-foreign-stocks | 野村証券取扱外国株式一覧](https://github.com/umihico/json-nomura-foreign-stocks)
+- [json-nomura-foreign-stocks | 野村証券取扱外国株式一覧](https://github.com/umihico/kabu-json-nomura-foreign-stocks)
 
 ## 各プログラム
 
