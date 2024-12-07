@@ -15,12 +15,20 @@
 
 ## 各プログラム
 
-情報の提供に難のあるものは、プログラムを公開しています
+情報の提供に難のあるものは、プログラムを公開しています。
 
 | CI状況 | レポジトリ |
 | ---- | ---- |
 | [![badge](https://github.com/umihico/kabu-json-all-stock-price-list/actions/workflows/auto-update.yml/badge.svg)](https://github.com/umihico/kabu-json-all-stock-price-list/actions/workflows/auto-update.yml) | [kabu-json-all-stock-price-list \| 全銘柄終値JSON取得プログラム](https://github.com/umihico/kabu-json-all-stock-price-list) |
 |  | [kabu-json-infra \| データ保存・配信用インフラ](https://github.com/umihico/kabu-json-infra) |
+
+## 各データ
+
+ソースコードの提供に難のあるものは、データを公開しています。
+
+| レポジトリ |
+| ---- |
+| [kabu-json-tradable-codes \| 取引可能銘柄一覧](https://github.com/umihico/kabu-json-tradable-codes) |
 
 ## 関連記事
 
